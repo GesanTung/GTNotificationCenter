@@ -1,0 +1,16 @@
+PODS:
+  - GTNotificationCenter (0.1.0)
+
+DEPENDENCIES:
+  - GTNotificationCenter (from `../`)
+
+EXTERNAL SOURCES:
+  GTNotificationCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GTNotificationCenter: 17a691f8e596d6cc643e55b2ac14de2a60d3d9d6
+
+PODFILE CHECKSUM: 6cd2a74ca0f907a8677e1c7d26b3d873ea02529c
+
+COCOAPODS: 1.5.3
