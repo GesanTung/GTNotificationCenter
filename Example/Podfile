@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GTNotificationCenter_Example' do
+  pod 'GTNotificationCenter', :path => '../'
+
+  target 'GTNotificationCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
